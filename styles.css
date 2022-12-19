@@ -1,2 +1,25 @@
-
 /* Your CSS Code here. */
+body {
+  background-color: whitesmoke;
+}
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: brown;
+  background-color: bisque;
+  border: 8px solid tomato;
+  padding: 20px;
+  margin: 10px;
+}
+#form {
+  padding: 20px;
+  margin: 10px;
+  border: 8px solid green;
+  height: 500px;
+  display: flexbox;
+  justify-content: center;
+  background-color: antiquewhite;
+  text-align: center;
+  color: darkmagenta;
+  font-size: large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
